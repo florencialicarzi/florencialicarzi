@@ -6,7 +6,7 @@ I'm a computer engineering student passionate about AI and compiler design, curr
 - 🤖 I'm currently working with **RAG systems** using **Azure** and **LangChain**
 - ⚡ Exploring **Large Language Models (LLMs)** for enterprise solutions
 - 🔧 I'm currently learning how to **build a compiler**
-- 💬 How to reach me: **florencia.licarzi@email.com**
+- 💬 How to reach me: **florencia.licarzi13@gmail.com**
 
 ## Languages and Tools
 
