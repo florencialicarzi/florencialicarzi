@@ -1,7 +1,7 @@
 ## Hi, I'm Florencia 👋
 **AI Developer | Computer Engineering Student at UNLaM**
 
-I'm a computer engineering student passionate about AI and compiler design, currently working as an AI Developer at Circo Studio.
+I'm a computer engineering student passionate about AI, currently working as an AI Developer at Circo Studio.
 
 - 🤖 I'm currently working with **RAG systems** using **Azure** and **LangChain**
 - ⚡ Exploring **Large Language Models (LLMs)** for enterprise solutions
