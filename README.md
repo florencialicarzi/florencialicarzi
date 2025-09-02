@@ -9,8 +9,6 @@ I'm a computer engineering student passionate about AI, currently working as an 
   
 - 🔧 I'm currently learning how to **build a compiler**
   
-- 💬 How to reach me: **florencia.licarzi13@gmail.com**
-
 The one in the photo is my cat, her name is Luna 🐱
 
 <h3 align="left">Connect with me:</h3>
