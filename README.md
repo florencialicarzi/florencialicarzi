@@ -1,5 +1,5 @@
-## Hi, I'm Florencia 👋
-**AI Developer | Computer Engineering Student at UNLaM**
+<h1 align="center">Hi, I'm Florencia 👋</h1>
+<h2 align="center">AI Developer | Computer Engineering Student at UNLaM</h2>
 
 I'm a computer engineering student passionate about AI, currently working as an AI Developer at Circo Studio.
 
